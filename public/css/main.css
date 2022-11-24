@@ -1,0 +1,27 @@
+.card {
+    margin: 0 auto;
+    /* Added */
+    float: none;
+    /* Added */
+    margin-bottom: 10px;
+    /* Added */
+};
+
+
+
+a:hover {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+;
+
+.menu_imagen {
+
+    height: 200px;
+    width: 200;
+
+}
